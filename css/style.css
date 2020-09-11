@@ -89,11 +89,11 @@ a, a :hover{
 }
 .banner-inner h1{
 	color: #fff;
-	font-size: 65px;
+	font-size: 75px;
 	line-height: 90px;	
 	font-weight: 400;
 }
-.banner-inner .devider{
+.banner-inner .divider{
 	background: #15a4fa;
 	width: 435px;
 	height: 2px;
@@ -108,9 +108,9 @@ a, a :hover{
 	
 }
 .banner-inner .btn{
-	font-size: 14px;
-	border:1px solid #15a4fa;
-	padding: 10px 10px;
+	font-size: 18px;
+	border: 1px solid #15a4fa;
+	padding: 10px;
 	border-radius: 5px;
 }
 
